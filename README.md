@@ -20,5 +20,5 @@ This project was developed as part of my BCA academic journey at Hirachand Nemch
 - Development Tools: VS Code, XAMPP
 
 ## 👩‍💻 Developer
-Adeeba Athani
+Adeeba
 BCA Student | Web Development
